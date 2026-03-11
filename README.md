@@ -51,7 +51,7 @@ pip install -r requirements.txt
 1. Tải dataset theo nguồn ở dưới, giải nén và để vào thư mục `data/images`. Sẽ có dạng `data/images/chest_xray`
 2. Mở thư mục `notebooks`.
 2. Chọn kernel chạy cho đúng đường dẫn python của môi trường ảo (venv) đã tạo ở bước trên.
-3. Chạy các file `.ipynb` theo thứ tự đã đánh số.
+3. Chạy file `.ipynb`.
 
 ## Tài nguyên bên ngoài
 
